@@ -1,0 +1,3 @@
+Date,Flight,Type,Pax,Trays,Bowls,Plates,Spoons,Forks,Oranges,Apples,Kiwis,Grapes
+2026-05-13 13:16:03,500.0,Outgoing (Departure),250,750.0,1500.0,750.0,0,0,1250.0,500.0,2000.0,0
+2026-05-13 13:17:02,502.0,Incoming (Arrival),100,200.0,200.0,200.0,0,0,400.0,100.0,200.0,0
